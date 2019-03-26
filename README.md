@@ -13,6 +13,8 @@ vocabulary:
 1.The energized solenoid mechanically couples a locking plate member to a camming plate member within the lock mechanism. Once the two members are mechanically coupled together, the operator wishing to open the lock system can depress an unlocking bar which is carried by the housing. Depressing the unlocking bar deflects the coupled together camming member and locking member. This coupled together and deflected combination trips the lock mechanism. The front panel is forced open, away from its locked position, to an intermediate position by an internal biasing spring. The front panel can then be moved from its intermediate position to its fully opened position to provide access to the region within the housing.
 # Watertight electric receptacle connector
 (website:https://patents.google.com/patent/US3633150A/en?q=watertight&oq=watertight+)
+# Protective enclosure and watertight adapter for an interactive flat-panel controlled device
+(website:https://patents.google.com/patent/US7312984B2/en?q=watertight&oq=watertight+)
 
 
 # Low-resistance and low-noise portable AUV shape design method based on intelligent optimization of gray wolf group
